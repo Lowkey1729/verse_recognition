@@ -1,4 +1,6 @@
-##Fetch Chapters of the Quran with similar verses  via voice input
+## VERSE RECOGNITION
+
+## Fetch Chapters of the Quran with similar verses  via voice input
 
 
 
